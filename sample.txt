@@ -9,3 +9,7 @@ Follwoed by GHA
 We learn GIT Commit
 
 Will learn branch
+
+GHA uses workflow
+
+It uses YAML files
