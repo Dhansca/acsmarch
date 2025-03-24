@@ -1,0 +1,7 @@
+This is Git Class
+
+We learn Git commands
+
+Next is GH
+
+Follwoed by GHA
